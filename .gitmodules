@@ -1,0 +1,8 @@
+[submodule "actl-lib"]
+	path = actl-lib
+	url = git@github.com:felipecrp/actl-lib.git
+	branch = .
+[submodule "actl-api"]
+	path = actl-api
+	url = git@github.com:felipecrp/actl-api.git
+	branch = .
