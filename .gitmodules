@@ -6,3 +6,7 @@
 	path = actl-api
 	url = git@github.com:felipecrp/actl-api.git
 	branch = .
+[submodule "actl-web"]
+	path = actl-web
+	url = git@github.com:felipecrp/actl-web.git
+	branch = main
